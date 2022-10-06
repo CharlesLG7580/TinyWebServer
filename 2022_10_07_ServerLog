@@ -1,0 +1,178 @@
+2022-10-07 00:00:04.272953 [info]: timer tick
+2022-10-07 00:00:05.463507 [info]: deal with the client(192.168.2.15)
+2022-10-07 00:00:05.463610 [info]: adjust timer once
+2022-10-07 00:00:05.463645 [info]: GET / HTTP/1.1
+2022-10-07 00:00:05.463721 [info]: Host: 192.168.2.26:9006
+2022-10-07 00:00:05.463746 [info]: Connection: keep-alive
+2022-10-07 00:00:05.463765 [info]: Upgrade-Insecure-Requests: 1
+2022-10-07 00:00:05.463782 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2022-10-07 00:00:05.463801 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.463819 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.463838 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-10-07 00:00:05.463855 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+2022-10-07 00:00:05.463873 [info]: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.463891 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.463909 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.463926 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.463943 [info]: 
+2022-10-07 00:00:05.464014 [info]: request:HTTP/1.1 200 OK
+
+2022-10-07 00:00:05.464038 [info]: request:HTTP/1.1 200 OK
+Content-Length:3165
+
+2022-10-07 00:00:05.464057 [info]: request:HTTP/1.1 200 OK
+Content-Length:3165
+Connection:keep-alive
+
+2022-10-07 00:00:05.464074 [info]: request:HTTP/1.1 200 OK
+Content-Length:3165
+Connection:keep-alive
+
+
+2022-10-07 00:00:05.464345 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.464406 [info]: adjust timer once
+2022-10-07 00:00:05.522868 [info]: deal with the client(192.168.2.15)
+2022-10-07 00:00:05.522979 [info]: adjust timer once
+2022-10-07 00:00:05.523077 [info]: GET /face.png HTTP/1.1
+2022-10-07 00:00:05.523145 [info]: Host: 192.168.2.26:9006
+2022-10-07 00:00:05.523170 [info]: Connection: keep-alive
+2022-10-07 00:00:05.523190 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.523209 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.523228 [info]: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.523246 [info]: oop!unknow header: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.523265 [info]: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.523282 [info]: oop!unknow header: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.523301 [info]: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.523319 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.523339 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.523356 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.523373 [info]: 
+2022-10-07 00:00:05.523444 [info]: request:HTTP/1.1 200 OK
+
+2022-10-07 00:00:05.523468 [info]: request:HTTP/1.1 200 OK
+Content-Length:19650
+
+2022-10-07 00:00:05.523487 [info]: request:HTTP/1.1 200 OK
+Content-Length:19650
+Connection:keep-alive
+
+2022-10-07 00:00:05.523504 [info]: request:HTTP/1.1 200 OK
+Content-Length:19650
+Connection:keep-alive
+
+
+2022-10-07 00:00:05.523770 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.523829 [info]: adjust timer once
+2022-10-07 00:00:05.540963 [info]: deal with the client(192.168.2.15)
+2022-10-07 00:00:05.541100 [info]: adjust timer once
+2022-10-07 00:00:05.541136 [info]: GET /background.png HTTP/1.1
+2022-10-07 00:00:05.541201 [info]: Host: 192.168.2.26:9006
+2022-10-07 00:00:05.541227 [info]: Connection: keep-alive
+2022-10-07 00:00:05.541247 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.541266 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.541284 [info]: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.541302 [info]: oop!unknow header: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.541320 [info]: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.541337 [info]: oop!unknow header: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.541356 [info]: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.541373 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.541394 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.541411 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.541429 [info]: 
+2022-10-07 00:00:05.541504 [info]: request:HTTP/1.1 200 OK
+
+2022-10-07 00:00:05.541528 [info]: request:HTTP/1.1 200 OK
+Content-Length:412878
+
+2022-10-07 00:00:05.541547 [info]: request:HTTP/1.1 200 OK
+Content-Length:412878
+Connection:keep-alive
+
+2022-10-07 00:00:05.541565 [info]: request:HTTP/1.1 200 OK
+Content-Length:412878
+Connection:keep-alive
+
+
+2022-10-07 00:00:05.541889 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.541928 [info]: adjust timer once
+2022-10-07 00:00:05.553224 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.553316 [info]: adjust timer once
+2022-10-07 00:00:05.559961 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.560044 [info]: adjust timer once
+2022-10-07 00:00:05.679909 [info]: deal with the client(192.168.2.15)
+2022-10-07 00:00:05.680015 [info]: adjust timer once
+2022-10-07 00:00:05.680153 [info]: GET /favicon.ico HTTP/1.1
+2022-10-07 00:00:05.680248 [info]: Host: 192.168.2.26:9006
+2022-10-07 00:00:05.680278 [info]: Connection: keep-alive
+2022-10-07 00:00:05.680299 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.680317 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.34
+2022-10-07 00:00:05.680336 [info]: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.680354 [info]: oop!unknow header: Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2022-10-07 00:00:05.680371 [info]: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.680388 [info]: oop!unknow header: Referer: http://192.168.2.26:9006/
+2022-10-07 00:00:05.680406 [info]: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.680423 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2022-10-07 00:00:05.680441 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.680458 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2022-10-07 00:00:05.680475 [info]: 
+2022-10-07 00:00:05.680543 [info]: request:HTTP/1.1 200 OK
+
+2022-10-07 00:00:05.680566 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+
+2022-10-07 00:00:05.680585 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+2022-10-07 00:00:05.680602 [info]: request:HTTP/1.1 200 OK
+Content-Length:4286
+Connection:keep-alive
+
+
+2022-10-07 00:00:05.680822 [info]: send data to the client(192.168.2.15)
+2022-10-07 00:00:05.680881 [info]: adjust timer once
+2022-10-07 00:00:09.273114 [info]: timer tick
+2022-10-07 00:00:14.273288 [info]: timer tick
+2022-10-07 00:00:19.273453 [info]: timer tick
+2022-10-07 00:00:24.273749 [info]: timer tick
+2022-10-07 00:00:29.273952 [info]: timer tick
+2022-10-07 00:00:34.274096 [info]: timer tick
+2022-10-07 00:00:39.274311 [info]: timer tick
+2022-10-07 00:00:44.274513 [info]: timer tick
+2022-10-07 00:00:49.274717 [info]: timer tick
+2022-10-07 00:00:54.274920 [info]: timer tick
+2022-10-07 00:00:59.275094 [info]: timer tick
+2022-10-07 00:01:04.275271 [info]: timer tick
+2022-10-07 00:01:09.275482 [info]: timer tick
+2022-10-07 00:01:14.275647 [info]: timer tick
+2022-10-07 00:01:19.275854 [info]: timer tick
+2022-10-07 00:01:24.276066 [info]: timer tick
+2022-10-07 00:01:29.276305 [info]: timer tick
+2022-10-07 00:01:34.276433 [info]: timer tick
+2022-10-07 00:01:39.276539 [info]: timer tick
+2022-10-07 00:01:44.276673 [info]: timer tick
+2022-10-07 00:01:49.276766 [info]: timer tick
+2022-10-07 00:01:54.276918 [info]: timer tick
+2022-10-07 00:01:59.277073 [info]: timer tick
+2022-10-07 00:02:04.277283 [info]: timer tick
+2022-10-07 00:02:09.277454 [info]: timer tick
+2022-10-07 00:02:14.277656 [info]: timer tick
+2022-10-07 00:02:19.277834 [info]: timer tick
+2022-10-07 00:02:24.278040 [info]: timer tick
+2022-10-07 00:02:29.278258 [info]: timer tick
+2022-10-07 00:02:34.278469 [info]: timer tick
+2022-10-07 00:02:39.278683 [info]: timer tick
+2022-10-07 00:02:44.278892 [info]: timer tick
+2022-10-07 00:02:49.279099 [info]: timer tick
+2022-10-07 00:02:54.279289 [info]: timer tick
+2022-10-07 00:02:59.279495 [info]: timer tick
+2022-10-07 00:03:04.279698 [info]: timer tick
+2022-10-07 00:03:09.279900 [info]: timer tick
+2022-10-07 00:03:14.280116 [info]: timer tick
+2022-10-07 00:03:19.280285 [info]: timer tick
+2022-10-07 00:03:24.280453 [info]: timer tick
+2022-10-07 00:03:29.280560 [info]: timer tick
+2022-10-07 00:03:34.280696 [info]: timer tick
+2022-10-07 00:03:39.280822 [info]: timer tick
+2022-10-07 00:03:44.280931 [info]: timer tick
+2022-10-07 00:03:49.281035 [info]: timer tick
